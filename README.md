@@ -1,6 +1,6 @@
 # Azure Functions quickstart sample repository for Python v2
 
-This repository contains the Python source code for quickstarts featured in [Azure Functions documentation](https://learn.microsoft.com/azure/azure-functions/).
+This repository contains the Python v2 model source code for quickstarts featured in [Azure Functions documentation](https://learn.microsoft.com/azure/azure-functions/).
 
 ## Contributing
 
